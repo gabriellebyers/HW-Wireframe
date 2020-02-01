@@ -1,0 +1,92 @@
+body {
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    color: #777;
+    background: #777;
+    width: 960px;
+    font-size: 18px;
+    margin: 0px auto;
+    padding: 0px;
+    text-align: center;
+}
+
+Header, 
+Nav {
+    font-size: 18px;
+    color: #777;
+    background: #ebebeb;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    }
+
+   .section1 {
+    font-size: 18px;
+    /* color: #777;
+    background: #ebebeb; */
+    width: 960px;
+    height: 250px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+       }
+
+section {
+    margin-right: 15px;
+    font-size: 18px;
+    color: #777;
+    background: #ebebeb;
+    float: left;
+    width: 495px;
+    margin-right: 20px;
+    height: 100%;
+    /* padding-top: 100px;
+    padding-bottom: 100px; */ 
+}
+
+aside {
+    font-size: 18px;
+    color: #777;
+    background: #ebebeb;
+    float: left;
+    width: 445px;
+    height: 100%;
+    /* margin-top: 15px;
+    margin-bottom: 15px;
+    padding-top: 100px;
+    padding-bottom: 100px; */
+}
+
+Footer {
+    clear: both;
+    font-size: 18px;
+    color: #777;
+    background: #ebebeb;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+   overflow: auto;
+}
+    
+
+
+/* div {
+    background: #ebebeb;
+} */
+
+/* Header, Nav, Section, Aside, and Footer */
+
+article {
+color: #ebebeb;
+background: #777;
+}
+
+
+
+p {
+    color: #777;
+    background: #ebebeb;
+    }
+
+/* section
+width: 495px; */
